@@ -5,6 +5,7 @@ on:
             - '*'
         branches:
             - 'main'
+    workflow_dispatch:
 jobs:
     full-test:
         container: cuaesd/aesd-autotest:assignment5-buildroot
