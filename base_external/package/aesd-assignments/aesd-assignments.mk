@@ -6,9 +6,9 @@
 ##############################################################
 
 # Repo:    assignments-3-and-later-sergeynv-coursera
-# Commit:  [a5-p2] implement aesdsocket-start-stop (in server/)
-# https://github.com/cu-ecen-aeld/assignments-3-and-later-sergeynv-coursera/commit/764b3fc33c71c30e404332b476f684211d886184
-AESD_ASSIGNMENTS_VERSION = 'ca55406c0347e5d08f36f2b384784979fa8c7d32'
+# Commit:  [a5-p2] aesdsocket.c: set backlog size to a none-0 value (128) in listen() call
+# https://github.com/cu-ecen-aeld/assignments-3-and-later-sergeynv-coursera/commit/51b3f647507451503000cfd9f1bfe0ba009e159f
+AESD_ASSIGNMENTS_VERSION = '51b3f647507451503000cfd9f1bfe0ba009e159f'
 AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-sergeynv-coursera.git'
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
